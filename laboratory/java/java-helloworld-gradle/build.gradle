@@ -1,0 +1,17 @@
+apply plugin: 'java'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testCompile "junit:junit:3.8.1"
+}
+
+jar {
+    baseName = 'java-helloworld-gradle'
+    version =  '1.0-SNAPSHOT'
+    manifest {
+        attributes 'Main-Class': 'com.stonie.App'
+    }
+}

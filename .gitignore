@@ -1,0 +1,9 @@
+.idea
+*.iml
+target
+.vscode
+.classpath
+.project
+.settings
+*.class
+XDG_CACHE_HOME
