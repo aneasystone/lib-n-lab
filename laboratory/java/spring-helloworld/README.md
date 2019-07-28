@@ -10,11 +10,11 @@
 ### 依赖
 
 ```
-    <dependency>
-      <groupId>org.springframework</groupId>
-      <artifactId>spring-context</artifactId>
-      <version>4.0.6.RELEASE</version>
-    </dependency>
+<dependency>
+  <groupId>org.springframework</groupId>
+  <artifactId>spring-context</artifactId>
+  <version>4.0.6.RELEASE</version>
+</dependency>
 ```
 
 ### 使用 `@Configuration` + `@Bean` 手工配置
@@ -34,25 +34,25 @@ public class HelloWorldConfig {
 Bean 配置好之后，有两种方法可以注册到 Spring 中去，第一种方法最简单，直接使用 `AnnotationConfigApplicationContext` 构造函数注册：
 
 ```
-    public static void main( String[] args ) {
-        AnnotationConfigApplicationContext context = new AnnotationConfigApplicationContext(HelloWorldConfig.class);
-        HelloWorldService bean = (HelloWorldService) context.getBean("helloWorldService");
-        bean.sayHello("World");
-        context.close();
-    }
+public static void main( String[] args ) {
+    AnnotationConfigApplicationContext context = new AnnotationConfigApplicationContext(HelloWorldConfig.class);
+    HelloWorldService bean = (HelloWorldService) context.getBean("helloWorldService");
+    bean.sayHello("World");
+    context.close();
+}
 ```
 
 或者使用 `AnnotationConfigApplicationContext` 的 `register()` 和 `refresh()` 方法注册：
 
 ```
-    public static void main( String[] args ) {
-        AnnotationConfigApplicationContext context = new AnnotationConfigApplicationContext();
-        context.register(HelloWorldConfig.class);
-        context.refresh();
-        HelloWorldService bean = (HelloWorldService) context.getBean("helloWorldService");
-        bean.sayHello("World");
-        context.close();
-    }
+public static void main( String[] args ) {
+    AnnotationConfigApplicationContext context = new AnnotationConfigApplicationContext();
+    context.register(HelloWorldConfig.class);
+    context.refresh();
+    HelloWorldService bean = (HelloWorldService) context.getBean("helloWorldService");
+    bean.sayHello("World");
+    context.close();
+}
 ```
 
 ### 使用 XML 手工配置
@@ -72,12 +72,12 @@ Bean 配置好之后，有两种方法可以注册到 Spring 中去，第一种�
 不过要改成用 `ClassPathXmlApplicationContext` 来注册和使用时：
 
 ```
-    public static void main( String[] args ) {
-        ClassPathXmlApplicationContext context = new ClassPathXmlApplicationContext("helloworld-config.xml");
-        HelloWorldService bean = (HelloWorldService) context.getBean("helloWorldService");
-        bean.sayHello("World");
-        context.close();
-    }
+public static void main( String[] args ) {
+    ClassPathXmlApplicationContext context = new ClassPathXmlApplicationContext("helloworld-config.xml");
+    HelloWorldService bean = (HelloWorldService) context.getBean("helloWorldService");
+    bean.sayHello("World");
+    context.close();
+}
 ```
 
 ### 使用 `@ComponentScan` 自动配置
