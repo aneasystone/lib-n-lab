@@ -32,11 +32,3 @@
 * [语言模型训练工具SRILM详解](http://www.52nlp.cn/language-model-training-tools-srilm-details)
 * [SRILM训练语言模型实战](https://ynuwm.github.io/2017/05/24/SRILM%E8%AE%AD%E7%BB%83%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E5%AE%9E%E6%88%98/)
 * [A Toolkit For Langugae Modeling——SRILM使用记录](https://blog.csdn.net/a635661820/article/details/43939773)
-
-### WFST
-
-* [走进语音识别中的WFST（一）](https://blog.csdn.net/l_b_yuan/article/details/50876340)
-* [走进语音识别中的WFST（二）](https://blog.csdn.net/l_b_yuan/article/details/50890261)
-* [走进语音识别中的WFST（三）](https://blog.csdn.net/l_b_yuan/article/details/50954425)
-* [走进语音识别中的WFST（四）](https://blog.csdn.net/l_b_yuan/article/details/50958047)
-* https://antkillerfarm.github.io/speech/2018/07/26/speech_6.html
