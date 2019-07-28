@@ -55,13 +55,29 @@ public class SwaggerConfig {
 }
 ```
 
-TODO 截图，验证
+启动应用后，访问 `http://localhost:8080/swagger-ui.html` 即可看到 Swagger UI 的页面：
+
+![](images/swagger-ui.png)
+
+每个接口点开之后，可以大致看出入参和出参，点击 `Try it out!` 按钮，可以直接进行接口测试：
+
+![](images/swagger-try-it-out.png)
 
 ### Swagger 高级配置
 
-TODO 其他注解
+* `@Api`：修饰整个类，描述Controller的作用
+* `@ApiOperation`：描述一个类的一个方法，或者说一个接口
+* `@ApiParam`：单个参数描述
+* `@ApiModel`：用对象来接收参数
+* `@ApiProperty`：用对象接收参数时，描述对象的一个字段
+* `@ApiResponse`：HTTP响应其中1个描述
+* `@ApiResponses`：HTTP响应整体描述
+* `@ApiIgnore`：使用该注解忽略这个API
+* `@ApiError`：发生错误返回的信息
+* `@ApiImplicitParam`：一个请求参数
+* `@ApiImplicitParams`：多个请求参数
 
 ### 参考
 
-https://www.ibm.com/developerworks/cn/java/j-using-swagger-in-a-spring-boot-project/index.html
-https://mrbird.cc/Spring-Boot-Swagger2-RESTful-API.html
+* [在 Spring Boot 项目中使用 Swagger 文档](https://www.ibm.com/developerworks/cn/java/j-using-swagger-in-a-spring-boot-project/index.html)
+* [Spring Boot整合Swagger2构建RESTful API](https://mrbird.cc/Spring-Boot-Swagger2-RESTful-API.html)
