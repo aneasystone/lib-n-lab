@@ -4,6 +4,7 @@
 * [Python 2.7 教程](https://www.liaoxuefeng.com/wiki/897692888725344) - 廖雪峰的官方网站
 * [Python 入门指南](http://www.pythondoc.com/pythontutorial3/)
 * [笨办法学 Python （Learn Python The Hard Way）](https://paper.seebug.org/papers/old_sebug_paper/books/LearnPythonTheHardWay/index.html)
+* [草根学Python](https://www.readwithu.com/)
 * [Python HOWTOs](https://docs.python.org/2/howto/index.html)
 * [The Hitchhiker’s Guide to Python!](https://docs.python-guide.org/)
 

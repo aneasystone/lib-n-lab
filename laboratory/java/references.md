@@ -8,3 +8,4 @@
 * https://github.com/YuKongEr/SpringBoot-Study
 
 * https://spring.io/guides
+* [Spring Security Tutorial](https://github.com/waylau/spring-security-tutorial)
