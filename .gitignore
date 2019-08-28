@@ -6,4 +6,6 @@ target
 .project
 .settings
 *.class
+node_modules
+dist
 XDG_CACHE_HOME
