@@ -15,6 +15,7 @@
 * https://github.com/cicadasmile/middle-ware-parent
 * https://github.com/lianggzone/springboot-action
 * https://github.com/xkcoding/spring-boot-demo
+* https://github.com/wyh-spring-ecosystem-student/spring-boot-student
 
 #### Spring Security & Shiro
 
@@ -29,3 +30,5 @@
 * https://github.com/linlinjava/litemall
 * https://github.com/shuzheng/zheng
 * https://github.com/macrozheng/mall
+* https://github.com/spawpaw/mybatis-generator-gui-extension
+* https://github.com/lenve/vhr

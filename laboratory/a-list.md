@@ -1,11 +1,3 @@
-## Spring Boot
-
-* [JeffLi1993/springboot-learning-example](https://github.com/JeffLi1993/springboot-learning-example)
-
-## Maven
-
-* [Maven 教程](http://wiki.jikexueyuan.com/project/maven/)
-
 ## Spring DevTools
 
 * [Spring DevTools 介绍 - 偶尔记一下 - CSDN博客](https://blog.csdn.net/isea533/article/details/70495714)
