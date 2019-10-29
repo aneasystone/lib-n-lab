@@ -4,6 +4,7 @@
 
 * http://www.numpy.org/
 * [NumPy 中文文档](https://www.numpy.org.cn/)
+  * https://github.com/teadocs/numpy-cn
 * [NumPy 教程](https://www.runoob.com/numpy/numpy-tutorial.html)
 
 ### Scipy
@@ -36,6 +37,7 @@
 * [Natural Language Toolkit](http://www.nltk.org/)
 * [fighting41love/funNLP](https://github.com/fighting41love/funNLP)
 * [fxsjy/jieba: 结巴中文分词](https://github.com/fxsjy/jieba)
+* https://github.com/didi/ChineseNLP
 
 ### 其他
 
@@ -70,6 +72,16 @@ Magenta: Music and Art Generation with Machine Intelligence
 * https://github.com/didi/delta
 
 DELTA is a deep learning based natural language and speech processing platform. 
+
+* https://github.com/dmlc/xgboost
+
+Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Flink and DataFlow https://xgboost.ai/
+
+### RASA
+
+* https://github.com/RasaHQ/rasa
+* http://www.52nlp.cn/rasa%e5%85%a5%e5%9d%91%e6%8c%87%e5%8d%97-%e5%88%9d%e8%af%86rasa
+* [基于最新版本rasa搭建的对话系统demo](https://github.com/GaoQ1/rasa_chatbot_cn)
 
 ### U-GAT-IT
 

@@ -2,6 +2,12 @@
 
 * https://github.com/HKUSTCV/FSS-1000
 
+FSS-1000, A 1000-class Dataset For Few-shot Segmentation
+
+* https://github.com/switchablenorms/CelebAMask-HQ
+
+A large-scale face dataset for face parsing, recognition, generation and editing.
+
 ### 图像
 
 * [ImageNet](http://image-net.org/)
