@@ -1,0 +1,11 @@
+server:
+  port: 30001
+
+spring:
+  application:
+    name: springcloud-euraka-client
+
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka/
