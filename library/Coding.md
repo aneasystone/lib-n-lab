@@ -10,6 +10,7 @@
 * [freeCodeCamp](https://learn.freecodecamp.org/)
 * [力扣 LeetCode](https://leetcode-cn.com/)
 * [挑战 Python](http://www.pythontip.com/coding/code_oj)
+* [牛客网](https://www.nowcoder.com/contestRoom)
 
 ### 开发者平台
 
