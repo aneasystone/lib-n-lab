@@ -3,6 +3,11 @@
 * [高效 Java 第三版](https://sjsdfg.github.io/effective-java-3rd-chinese/#/README)
 * [《On Java 8》中文版](https://lingcoder.github.io/OnJava8/#/README)
 
+### Online Resources
+
+* [Java Practices](http://www.javapractices.com/home/HomeAction.do)
+* [Patterns - Java Design Patterns](https://java-design-patterns.com/patterns/)
+
 ### 提升
 
 * [crossoverJie/JCSprout: Java Core Sprout : basic, concurrent, algorithm](https://github.com/crossoverJie/JCSprout)
