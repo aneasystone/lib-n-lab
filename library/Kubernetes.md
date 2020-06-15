@@ -1,5 +1,6 @@
 ### Online Books
 
+* [Kubernetes指南](https://kubernetes.feisky.xyz/)
 * [Kubernetes Handbook - Kubernetes中文指南/云原生应用架构实践手册](https://jimmysong.io/kubernetes-handbook/)
 * [和我一步步部署 kubernetes 集群](https://github.com/opsnull/follow-me-install-kubernetes-cluster)
 
