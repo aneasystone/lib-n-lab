@@ -15,3 +15,7 @@
 ### 开发者平台
 
 * [腾讯云开发者平台](https://dev.tencent.com/)
+
+### 开发工具
+
+* [EditorConfig](https://editorconfig.org/)
