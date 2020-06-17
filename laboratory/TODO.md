@@ -95,3 +95,20 @@
 
 * [alibaba/Sentinel](https://github.com/alibaba/Sentinel)
 * [Sentinel: 分布式系统的流量防卫兵](https://github.com/alibaba/Sentinel/wiki/%E4%BB%8B%E7%BB%8D)
+
+## 服务发现
+
+* [服务发现比较:Consul vs Zookeeper vs Etcd vs Eureka](https://luyiisme.github.io/2017/04/22/spring-cloud-service-discovery-products/)
+
+# Spring
+
+* [Spring Guides](https://spring.io/guides)
+* [Spring Cloud中文网-官方文档中文版](https://www.springcloud.cc/)
+
+# Arthas
+
+* [Alibaba Java诊断利器Arthas](https://alibaba.github.io/arthas/)
+
+# MyBatis
+
+* [Getting started](https://mybatis.org/mybatis-3/getting-started.html)

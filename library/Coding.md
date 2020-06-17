@@ -18,4 +18,6 @@
 
 ### 开发工具
 
+* [Visual Studio Code](https://code.visualstudio.com/docs)
+  - [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode)
 * [EditorConfig](https://editorconfig.org/)
