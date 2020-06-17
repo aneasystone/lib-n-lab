@@ -112,3 +112,11 @@
 # MyBatis
 
 * [Getting started](https://mybatis.org/mybatis-3/getting-started.html)
+
+# SonarQube
+
+* [代码质量管理SonarQube - Waterstrong](https://blog.waterstrong.me/sonarqube-by-step/)
+
+# Drone
+
+* [体验基于gogs+Drone搭建的CI/CD平台 - 简书](https://www.jianshu.com/p/15506f46f75a)
